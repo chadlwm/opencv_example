@@ -5,8 +5,8 @@ just some opencv example for studying.
 # What you will earn
 
 - opencv basic usage
-- how to use g++ build your cpp
-- how to use cmake build your cpp, include one cpp or multi cpp.
+- how to use g++ to build your cpp
+- how to use cmake to build your cpp, including one cpp or multi cpp.
 
 GOOD LUCK.
 
